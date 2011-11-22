@@ -30,7 +30,7 @@ function wpseaSnippets_init() {
 	$args = array(
 		'labels' => $labels,
 		'public' => true,
-		'publicly_queryable' => true
+		'publicly_queryable' => true,
 		'show_in_menu' => true,
 		'rewrite' => array('slug' => 'snippets'),
 		'has_archive' => true,
