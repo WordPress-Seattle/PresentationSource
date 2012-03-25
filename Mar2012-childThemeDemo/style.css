@@ -1,0 +1,35 @@
+/*
+Theme Name: WP SEA DEV Child Theme Demo
+Theme URI: http://iandunn.name/wp-content/misc/2012/wp-sea-dev-child-themes/
+Author: Ian Dunn
+Author URI: http://iandunn.name/
+Description: Demo of a child theme for the lab after the presentation
+Version: 0.1
+License: GNU General Public License
+Template: twentyeleven
+*/
+
+/* imports the parent theme's stylesheet -- this has to be the first CSS rule in the file */
+/* @import url( ../twentyeleven/style.css ); */
+
+
+/* Make the content column wider */
+/*
+#content
+{
+	margin: 0 3%;
+}
+
+	#content header.entry-header, #content .entry-content
+	{
+		width: 90%;
+	}
+*/
+
+/* Change link color */
+/*
+a
+{
+	color: #b02d1f;
+}
+*/
